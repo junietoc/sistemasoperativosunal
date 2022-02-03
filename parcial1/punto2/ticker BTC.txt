@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+Date: Mon, 08 Nov 2021 16:35:50 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 220
+Connection: keep-alive
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+etag: W/"cde9ba34cd0213e3166677ad20794421"
+x-runtime: 0.073956
+x-request-id: cf15539f-6cb9-4e35-b3cd-d6abb0f84ef0
+cache-control: max-age=2s, public
+x-cache: hit cached
+x-envoy-upstream-service-time: 0
+CF-Cache-Status: EXPIRED
+Accept-Ranges: bytes
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Set-Cookie: __cf_bm=f6X5lOXY9yujizH81yFb5npGPOAxsfsPnzC7_8YFlxQ-1636389350-0-AQvJTs+b5p5Hnndj23b/nPSLDHl9QpfPldp94WTcIftDZOHXeirT9+mZTzs+0tByfSdBdqhM1/XdvC9gHn0ld6w=; path=/; expires=Mon, 08-Nov-21 17:05:50 GMT; domain=.buda.com; HttpOnly; Secure
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Server: cloudflare
+CF-RAY: 6ab0377d6b933ecd-BOG
+
+{"ticker":{"market_id":"BTC-CLP","last_price":["52680000.0","CLP"],"min_ask":["53190910.0","CLP"],"max_bid":["52680000.0","CLP"],"volume":["35.05502699","BTC"],"price_variation_24h":"0.034","price_variation_7d":"0.045"}}

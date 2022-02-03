@@ -1,0 +1,89 @@
+Los sistemas operativos (OS) son programas que actúan de intermediarios entre el hardware del PC y el usuario, ayudando a manejar
+de manera más cómoda cada una de las aplicaciones del PC. Los OS tienen privilegios especiales que les permiten manejar a otros programas.
+Funciones Principales:
+- Administrar hardware para realizar tareas: Cuando una aplicación comienza a correr, por ejemplo Spotify, el sistema
+operativo determina qué y cuánta memoria va a designar para que Spotify corra sin problemas.
+- Organizar datos para el fácil acceso: Cuando los archivos almacenados en la memoria del PC necesitan ser accedidos,
+el sistema operativo se encarga de organizarlos para que su acceso sea rápido y eficiente.
+- Comunicación con periféricos: El sistema operativo está preparado para comunicar información entre las aplicaciones y
+los periféricos, por ejemplo comunica Microsoft Word con el teclado para que la aplicación funcione correctamente.
+
+
+Características de los OS:
+- Están construidos para evolucionar, ir mejorando versión a versión y corregir errores de software de versiones pasadas.
+- Facilitan la experiencia de usuario con interfaces de usuario que hacen el manejo del PC fácil e intuitivo.
+
+Tipos de OS:
+- Multitarea: Son capaces de ejecutar múltiples aplicaciones y múltiples funciones al mismo tiempo.
+- Monousuario: Permiten el manejo del PC por un usuario que tiene acceso a todos los recursos del mismo
+- Multiusuario: Están construidos para compartir los mismos recursos del PC en varios usuarios conectados al mismo.
+
+HISTORIA DE LOS OS:
+Los sistemas operativos nacen de la necesidad de ejecutar programas en los computadores de maneras eficientes. En los 50s los
+computadores se estaban volviendo cada vez más rápidos, el problema estaba en que los programas eran cargados a los computadores
+por personas, y esto tardaba un tiempo. Así, el primer OS empezó siendo un programa que cargaba automáticamente programas.
+Pero el anterior problema no es el único que los OS solucionaron. Algunos programas se comunicaban con periféricos como impresoras,
+pero por cada impresora existía un protocolo, así los programadores necesitaban escribir un programa por cada periférico. Así que los OS
+se encargaron de ser los intermediarios entre los programas y los periféricos.
+Como última característica, los OS permitieron una nueva posibilidad: ejecutar varios programas al mismo tiempo.
+
+
+A continuación, una lista de tiempo de los OS más importantes desarrollados en los ultimos 60 años:
+
+1961: CTTS por MIT, tenía una función de comunicación entre usuarios que usaban el OS en el mismo PC
+
+1962: Atlas Supervisor por UManchester, con la idea de memoria virtual es capaz de ejecutar múltiples programas al mismo tiempo
+
+1964: EXEC 8 por CSC.
+
+1965: OS/360 por IBM.
+
+1969: UNIX por AT&T.
+
+1970 Batch-11: Creado por DEC.
+
+1971: OS/8 por DEC.
+
+1973: AltoOS creado en Xerox Park.
+
+1978: Apple Dos por Apple, primer OS creado por esta compañía.
+
+1980: QDOS por Tim Patterson.     
+
+1981: MS-DOS por Microsoft.
+
+1983: LisaOS por Apple.
+
+1984: MacOS por Apple.
+
+1991: Linux por Richard Stallman, Proyecto GNU, Linus Torvalds, et al.
+
+1993: Plan 9 por Bell Labs.
+
+1995: Windows 95 por Microsoft
+
+2001: Windows XP por Microsoft.
+
+2004: Ubuntu Linux por Canonical Ltd. / Fundación Ubuntu, distribución más popular de Linux.
+
+2005: MAC OSX.10 por Apple.
+
+2009: Windows 7 por Microsoft.
+
+- OS para dispositivos móviles
+
+2009: iOs por Apple.
+
+2008: Android por Google. Basado en Linux.
+
+2010: Windows Phone por Microsoft.
+
+
+
+2012: Windows 8 por Microsoft. Versión arriesgada en términos de UI, también tenía muchos bugs.
+
+2015: Windows 10 Después de la escaza acogida de interfaz de usuario por parte del público, Microsoft vuelve al diseño Aero
+
+2021: Windows 11, última versión lanzada el 5 de octubre de 2021.
+
+

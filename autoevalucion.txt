@@ -1,0 +1,24 @@
+Autoevaluación
+Nota Final 5.0
+Considero que he trabajado arduamente en esta materia. Al inicio de semestre tenía un concepto difuso de lo que es un sistema
+operativo, pero gracias a prestar atención en clase y hacer las tareas asignadas, he llegado a comprender con muchísima más claridad estos
+temas.
+
+- Participación en clase 10%: 4.9. Estuve participando en casi todas las clases, respondiendo preguntas del profesor sobre el 
+tema visto o la tarea asignada
+- Exposiciones en clase 20%: 5. Con mi equipo hicimos una exhaustiva investigación para entender la Analítica de Datos. 
+Pude entender cómo funciona Splunk y les expliqué a los compañeros de clase porqué es tan útil esta aplicación
+- Parciales 50%: 
+Parcial 1: 5.
+Punto 1. 10%: 5 Hice un programa que genera un archivo en markdown, explicando las funciones de la librería os.
+Punto 2. 10%: 5. Investigué como hacer solicitudes a una API usando sockets y así logré obtener información de BUDA 
+la cual deposité en un archivo txt
+Punto 3. 25%: 5. Construí un servidor web usando sockets y asyncio. Entendí como funciona el HTTP cumpliendo con los 
+requerimientos de este punto
+Punto 4. 25%: 5. Entendí como funciona la transferencia de archivos, y pude ejecutarla exitosamente
+Punto 5. 30%: 5. Logré entender como funcionan las wallets de metamask y los smartcontracts
+
+- Ejercicios en casa 20%: 4.9 He hecho diligentemente cada ejercicio dejado para casa y los he entregado a tiempo. Cuando no he podido lograr la tarea, 
+fuí capaz de entregar un avance significativo.
+
+Calculado = 4.96 = 5

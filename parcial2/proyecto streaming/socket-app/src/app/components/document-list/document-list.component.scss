@@ -1,0 +1,27 @@
+.sidenav {
+    position: fixed;
+    height: 100%;
+    width: 320px;
+    top: 0;
+    left: 0;
+    background-color: #0a8cf6;
+    overflow-x: hidden;
+    padding-top: 20px;
+
+    span {
+        padding: 6px 0px 6px 16px;
+        text-decoration: none;
+        font-size: 25px;
+        font-family: 'Roboto', Tahoma, Geneva, Verdana, sans-serif;
+        color: #ffffff;
+        display: block;
+    }.selected {
+        
+        color: #383838;
+    }:hover {
+        transition: 0.3s;
+        color: #f1f1f1;
+        cursor: pointer;
+    }
+    
+}

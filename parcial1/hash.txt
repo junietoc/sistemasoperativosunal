@@ -1,0 +1,16 @@
+Punto 1:
+ 459b138b7fee24ea3fd595be7e69abaf7d00d459
+Punto 2:
+- punto2.py: 60515c35907bf9a87ba3b3c968897e0e0a44c7f3
+- market BTC.txt: 48ed019dfb87fec49c952ed10e58e2e1a9c3113d
+- ticker BTC.txt: 28229afe742a7f7310ab72d27fd540f5b53eb1ce
+- orderBook BTC.txt: ae496509cc2667de05a328ba49f5332cc5fc9bab
+Punto 3:
+ - punto3.py: dcf0f37950119b01e9515ef0a28988fea16235b0
+- web.html: 233e726ea9baf5ac01cc4e563419267ec3243ed5
+Punto 4:
+ - cliente:
+ -- client.py: 49224792d6a16be713cc1181de21bf9159c39339
+-- file.txt: 37f85582e0b01f5923ddc511aedc275672d15ae0
+- servidor:
+ - server.py: 8d11b783ea523d2c26b463e685f1358ee80a3815
